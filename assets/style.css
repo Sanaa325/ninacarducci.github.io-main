@@ -76,10 +76,7 @@ body {
 	height: 440px;
 
 }
-.carousel-item img{
-	height: 666px;
-	width: 1440px;
-}
+
 #about-me {
 	flex: 2
 }
